@@ -1,0 +1,8 @@
+[package]
+name = "io-result-ext"
+version = "0.1.0"
+description = "Extension methods for std::io::Result"
+license = "CC0-1.0"
+repository = "https://github.com/zombiepigdragon/io-result-ext"
+keywords = ["extension", "trait", "io", "result"]
+categories = ["filesystem", "rust-patterns"]
