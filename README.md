@@ -6,7 +6,8 @@ A collection of helper methods for the standard library's [IO result type](https
 
 This crate is far from complete!
 If there are patterns you frequently use for `std::io::Result` that aren't included in this crate,
-please open an issue with an example or submit a PR.
+please [open an issue](https://github.com/zombiepigdragon/io-result-ext/issues/new) with an example or
+[submit a PR](https://github.com/zombiepigdragon/io-result-ext/pulls).
 
 ## MSRV
 
